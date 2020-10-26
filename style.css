@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.navbar-brand{
+    font-size: 1.5rem;
+}
+.nav-link, .btn{
+    font-size: 1.25rem;
+}
+main{
+    margin-top: 12rem;
+}
+.container h4{
+    font-size: 1.5rem;
+}
+#btn{
+    background-color: white;
+    border: 1px solid black;
+}
